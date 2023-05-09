@@ -1,1 +1,3 @@
 # Data-Science-Final-Project
+
+The purpose of this project was to read through the data to find a way to reduce the amount of accidents that occured in Baton Rouge adn the surrounding area. To do so I cleaned the data, removing any unnecessary columns, rows, fields to show the more important data based off of the questions I asked. I then created graphs to portray the data that I had collected through different statements and imported visualization libraries. The attached files will include my data set file, my jupyter notebook of cleaned data and graphs, my one page project summary, and my final project slides.
